@@ -13,3 +13,4 @@ Ayant déjà fait cette évaluation, je me suis mis au défi avec un collègue e
 ## Les tâches déjà effectuées :
 - [x] Automatiser la création d'objets [(Hydration, Parser)](https://github.com/iThorgrim/CV_Theque/blob/main/CSV_Obj.cs#L144)
 - [x] Automatiser l'appel des méthodes [(Invoker)](https://github.com/iThorgrim/CV_Theque/blob/main/Form1.cs#L27)
+- [x] Automatiser l'ajout des données dans notre dgv
