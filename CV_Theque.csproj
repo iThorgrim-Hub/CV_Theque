@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\iThorgrim\Desktop\t\cv_theque.FormBuilder.cs" Link="cv_theque.FormBuilder.cs" />
+  </ItemGroup>
+
 </Project>
