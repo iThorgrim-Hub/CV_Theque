@@ -1,0 +1,17 @@
+D:\Logiciels\GitHub\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.exe
+D:\Logiciels\GitHub\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.deps.json
+D:\Logiciels\GitHub\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.runtimeconfig.json
+D:\Logiciels\GitHub\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.dll
+D:\Logiciels\GitHub\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.pdb
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.csproj.AssemblyReference.cache
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.Form1.resources
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.csproj.GenerateResource.cache
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.AssemblyInfoInputs.cache
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.AssemblyInfo.cs
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.csproj.CoreCompileInputs.cache
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.dll
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\refint\CV_Theque.dll
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.pdb
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.genruntimeconfig.cache
+D:\Logiciels\GitHub\CV_Theque\obj\Debug\net6.0-windows\ref\CV_Theque.dll

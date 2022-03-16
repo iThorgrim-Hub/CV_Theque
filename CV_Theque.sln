@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CV_Theque", "CV_Theque.csproj", "{D81C3DBA-6217-445F-BD8B-A2CBE6ABAB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81C3DBA-6217-445F-BD8B-A2CBE6ABAB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81C3DBA-6217-445F-BD8B-A2CBE6ABAB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81C3DBA-6217-445F-BD8B-A2CBE6ABAB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81C3DBA-6217-445F-BD8B-A2CBE6ABAB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25F9A16-114C-4BF2-A36F-67A4110A6206}
+	EndGlobalSection
+EndGlobal
