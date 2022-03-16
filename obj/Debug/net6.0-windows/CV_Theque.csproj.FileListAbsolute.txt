@@ -21,7 +21,6 @@ C:\Users\iThorgrim\Desktop\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.runtimec
 C:\Users\iThorgrim\Desktop\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.dll
 C:\Users\iThorgrim\Desktop\CV_Theque\bin\Debug\net6.0-windows\CV_Theque.pdb
 C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.csproj.AssemblyReference.cache
-C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.Form1.resources
 C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.csproj.GenerateResource.cache
 C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.AssemblyInfoInputs.cache
@@ -49,3 +48,4 @@ C:\Users\iThorgrim\Desktop\t\obj\Debug\net6.0-windows\CV_Theque.genruntimeconfig
 C:\Users\iThorgrim\Desktop\t\obj\Debug\net6.0-windows\ref\CV_Theque.dll
 C:\Users\iThorgrim\Desktop\t\obj\Debug\net6.0-windows\CV_Theque.FormBuilder.resources
 C:\Users\iThorgrim\Desktop\t\obj\Debug\net6.0-windows\CV_Theque.csproj.GenerateResource.cache
+C:\Users\iThorgrim\Desktop\CV_Theque\obj\Debug\net6.0-windows\CV_Theque.FormBuilder.resources

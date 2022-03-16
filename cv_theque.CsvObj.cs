@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Reflection;
 
 namespace CV_Theque
 {
     public class CSV_Obj
     {
-
         //
         private string? _id;
         private string? _lastname;
@@ -26,12 +20,19 @@ namespace CV_Theque
         private List<string>? _skills;
         private List<string>? _links;
         //
-        public static Dictionary<int, string> methodDic = new Dictionary<int, string>()
-        {{   0, "Id"         }, {   1, "LastName"   }, {   2, "FirstName"  },
-         {   3, "Age"        }, {   4, "Birthday"   }, {   5, "Adress"     },
-         {   7, "PostalCode" }, {   8, "City"       }, {   9, "Phone"      },
-         {   11, "Email"     }, {   12, "Profil"    }, {   13, "Skills"    }, 
-         {   23, "Links"     }
+
+        public class Index
+        {
+            public string? columnName { get; set; }
+            public bool isVisible { get; set; }
+        }
+
+        public static Dictionary<int, Index> methodDic = new Dictionary<int, Index>()
+        {{   0,     new Index { columnName = "Id",          isVisible = true } }, {   1,    new Index { columnName = "LastName",  isVisible = true } }, {   2,    new Index { columnName = "FirstName", isVisible = true } },
+         {   3,     new Index { columnName = "Age",         isVisible = true } }, {   4,    new Index { columnName = "Birthday",  isVisible = true } }, {   5,    new Index { columnName = "Adress",    isVisible = true } },
+         {   7,     new Index { columnName = "PostalCode",  isVisible = true } }, {   8,    new Index { columnName = "City",      isVisible = true } }, {   9,    new Index { columnName = "Phone",     isVisible = true } },
+         {   11,    new Index { columnName = "Email",       isVisible = true } }, {   12,   new Index { columnName = "Profil",    isVisible = true } }, {   13,   new Index { columnName = "Skills",    isVisible = true } },
+         {   23,    new Index { columnName = "Links",       isVisible = true } }
         };
 
         public string Id(string? val = null)
@@ -153,7 +154,7 @@ namespace CV_Theque
 
                 string[] TempArg = new string[1] { values[i].ToString() };
                 MethodInfo? SelfMethod = self.GetType()
-                                             .GetMethod( methodDic[ methodIndex ] );
+                                             .GetMethod( methodDic[ methodIndex ].columnName );
                 if ( SelfMethod != null)
                 {
                     SelfMethod.Invoke(self, TempArg);
